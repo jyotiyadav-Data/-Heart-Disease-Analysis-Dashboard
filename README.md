@@ -8,7 +8,7 @@ The dataset was first prepared in **Microsoft Excel** and then visualized in **P
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 - Power BI
 - Microsoft Excel
 - DAX (Data Analysis Expressions)
